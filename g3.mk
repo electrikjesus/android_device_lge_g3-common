@@ -101,6 +101,10 @@ PRODUCT_PACKAGES += \
     memtrack.msm8974 \
     liboverlay
 
+# Gello
+PRODUCT_PACKAGES += \
+    Gello
+
 # GPS
 PRODUCT_PACKAGES += \
     gps.msm8974
@@ -174,6 +178,7 @@ PRODUCT_PACKAGES += \
 PRODUCT_PACKAGES += \
     fstab.g3 \
     init.g3.rc \
+    init.g3.power.rc \
     init.g3.usb.rc \
     init.msm8974.sensor.sh \
     init.qcom.sh \
