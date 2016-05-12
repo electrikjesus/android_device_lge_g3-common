@@ -1,9 +1,9 @@
 [
   {
-    "remote":      "github",
-    "repository":  "dblockopp/G3_CooCoo_Kernel",
+    "remote": "github",
+    "repository": "CyanogenMod/android_kernel_lge_g3",
     "target_path": "kernel/lge/g3",
-    "branch":      "6.0.1"
+    "revision": "cm-13.0"
   },
   {
     "remote": "github",
